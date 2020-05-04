@@ -1,0 +1,35 @@
+.profilContainer {
+    padding: 50px;
+}
+
+.fullName {
+    margin-bottom: 20px;
+}
+
+.fullName h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 100;
+    color: brown;
+}
+
+img {
+    max-width: 80%;
+    
+}
+
+.address {
+    margin-top:20px;
+}
+
+.address h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #333;
+    text-transform: uppercase;
+}
+
+.address a {
+    color:brown
+}
